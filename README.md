@@ -38,7 +38,7 @@
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 
-    <img align=""left" alt="JohnLi-98 GitHub Stats" src="https://github-readme-stats.johnli-98.vercel.app/>api?username=JohnLi-98&show_icons=true&hide_border=true" />
+    <img align="left" alt="JohnLi-98 GitHub Stats" src="https://github-readme-stats.johnli-98.vercel.app/>api?username=JohnLi-98&show_icons=true&hide_border=true" />
 
 </details>
 
