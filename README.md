@@ -2,10 +2,12 @@
 
 ## I'm an aspiring Full-Stack Developer!
 
-- I'm currently learning the MERNG stack, particularly the React framework.
 - I'm always looking for ways to better myself as a developer.
+- I'm currently learning the MERNG stack, particularly the React framework.
 - 2021 Goals: Read more books and continue to learn more about software development.
 - Fun fact: I love listening to music and enjoy doing puzzles.
+
+### Spotify - Currently Listening to
 
 ### Connect with me:
 
@@ -32,6 +34,13 @@
 
 <br />
 <br />
+
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
+
+    <img align=""left" alt="JohnLi-98 GitHub Stats" src="https://github-readme-stats.johnli-98.vercel.app/>api?username=JohnLi-98&show_icons=true&hide_border=true" />
+
+</details>
 
 [linkedin]: https://www.linkedin.com/in/john-li-8529aa195
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
