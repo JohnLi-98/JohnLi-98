@@ -5,12 +5,11 @@
 - I'm always looking for ways to better myself as a developer.
 - I'm currently learning the MERNG stack, particularly the React framework.
 - 2021 Goals: Read more books and continue to learn more about software development.
-- Fun fact: I love listening to music and enjoy doing puzzles.
+- Fun fact: I enjoy doing puzzles and love listening to different genres of music.
 
 ### Spotify - Currently Listening to
 
 <img src="https://novatorem.johnli-98.vercel.app/api/spotify" alt="Spotify Playing" />
-(https://open.spotify.com/user/jordanli15)
 
 ### Connect with me:
 
@@ -34,6 +33,8 @@
 [<img align="left" alt="Git" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="VS Code" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+<br />
 
 ---
 
