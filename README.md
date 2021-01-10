@@ -1,13 +1,13 @@
-### Hi, I'm John Li
+### Hello there! I'm John :wave:
 
 ## I'm an aspiring Full-Stack Developer!
 
-- I'm always looking for ways to better myself as a developer.
-- I'm currently learning the MERNG stack, particularly the React framework.
-- 2021 Goals: Read more books and continue to learn more about software development.
-- Fun fact: I enjoy doing puzzles and love listening to different genres of music.
+- :chart_with_upwards_trend: I'm always looking for ways to better myself as a developer.
+- :pencil: I'm currently learning the MERNG stack, particularly the React framework.
+- :closed_book: 2021 Goals: Read more books and continue to learn more about software development.
+- :musical_score: Fun fact: I enjoy doing puzzles and love listening to different genres of music.
 
-### Spotify - Currently Listening to
+### :headphones: Spotify - Currently Listening to
 
 <img src="https://novatorem.johnli-98.vercel.app/api/spotify" alt="Spotify Playing" />
 
@@ -34,6 +34,7 @@
 [<img align="left" alt="GitHub" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="VS Code" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
+<br />
 <br />
 
 ---
