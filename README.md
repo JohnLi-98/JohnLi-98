@@ -40,6 +40,8 @@
 
     <img align="left" alt="GitHub Stats" src="https://github-readme-stats-sepia-phi.vercel.app/api?username=JohnLi-98&show_icons=true&hide_border=true" />
 
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.johnli-98.vercel.app/api?username=JohnLi-98&show_icons=true&hide_border=true" />
+
 </details>
 
 [linkedin]: https://www.linkedin.com/in/john-li-8529aa195
