@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" height="32px" width="32px" src="https://cdn.jsdeliver.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
