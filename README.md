@@ -10,7 +10,7 @@
 ### Spotify - Currently Listening to
 
 <img src="https://novatorem.johnli-98.vercel.app/api/spotify" alt="Spotify Playing" />
-(https://open.spotify.com/user/ouq4T1GBRgmTQ4Eqf_sreQ)
+(https://open.spotify.com/user/jordanli15)
 
 ### Connect with me:
 
