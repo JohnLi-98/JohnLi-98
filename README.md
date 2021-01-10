@@ -13,6 +13,8 @@
 
 ### Connect with me:
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left" />
+
 [<img align="left" alt="LinkedIn" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0077B5" />][linkedin]
 
 <br />
