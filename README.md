@@ -42,9 +42,8 @@
 ### Projects
 
 - Get Healthy: Personal web project in relation to the topic of health and fitness.
+- Social Media App: A SPA similar to Twitter. Create, like and comment on posts.
 - Workout Logger (Current): Web application for logging, modifying and retrieving exercise and workout data.
-
-<br />
 
 ---
 
