@@ -42,9 +42,9 @@
 ### Projects
 
 - Get Healthy: Personal web project in relation to the topic of health and fitness. [[Demo](http://gethealthy.infinityfreeapp.com/)] [[GitHub](https://github.com/JohnLi-98/Get-Healthy)]
-- Social Media App: A SPA similar to Twitter. Create, like and comment on posts.
-- Easybank Landing Page: Frontend Mentor challenge.
-- React Starter Projects: A variety of projects using React.
+- Social Media App: A SPA similar to Twitter. Create, like and comment on posts. [[Demo](https://my-social-media-app.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/Social-Media-App-MERNG-)]
+- Easybank Landing Page: Frontend Mentor challenge. [[Demo](https://frontend-mentor-landing.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/Easybank-Frontend-Mentor)]
+- React Starter Projects: A variety of projects using React. [[Demo]()] [[GitHub](https://github.com/JohnLi-98/react-starter-projects)]
 - Workout Logger (Current): Web application for logging, modifying and retrieving exercise and workout data.
 
 ---
