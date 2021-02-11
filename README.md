@@ -41,8 +41,10 @@
 
 ### Projects
 
-- Get Healthy: Personal web project in relation to the topic of health and fitness.
+- Get Healthy: Personal web project in relation to the topic of health and fitness. ([Demo](http://gethealthy.infinityfreeapp.com/))
 - Social Media App: A SPA similar to Twitter. Create, like and comment on posts.
+- Easybank Landing Page: Frontend Mentor challenge.
+- React Starter Projects: A variety of projects using React.
 - Workout Logger (Current): Web application for logging, modifying and retrieving exercise and workout data.
 
 ---
