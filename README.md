@@ -3,7 +3,7 @@
 ## Computer Science Graduate and Aspiring Full-Stack Developer! :computer:
 
 - :chart_with_upwards_trend: I'm always looking for ways to better myself as a developer.
-- :pencil: I'm currently learning the MERNG stack, particularly the React framework.
+- :pencil: I'm currently learning Python.
 - :closed_book: 2021 Goals: Read more books and continue to learn more about software development.
 - :musical_score: Fun fact: I enjoy doing puzzles and love listening to different genres of music.
 
@@ -44,8 +44,8 @@
 - Get Healthy: Personal web project in relation to the topic of health and fitness. [[Demo](http://gethealthy.infinityfreeapp.com/)] [[GitHub](https://github.com/JohnLi-98/Get-Healthy)]
 - Social Media App: A SPA similar to Twitter. Create, like and comment on posts. [[Demo](https://my-social-media-app.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/Social-Media-App-MERNG-)]
 - Easybank Landing Page: Frontend Mentor challenge. [[Demo](https://frontend-mentor-landing.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/Easybank-Frontend-Mentor)]
-- React Starter Projects: A variety of projects using React. [[Demo]()] [[GitHub](https://github.com/JohnLi-98/react-starter-projects)]
-- Workout Logger (Current): Web application for logging, modifying and retrieving exercise and workout data.
+- React Starter Projects: A variety of projects using React. [[Demo](https://react-starter-projects.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/react-starter-projects)]
+- Workout Logger: Web application for logging, modifying and retrieving exercise and workout data. [[Demo](https://workout-logger-app.netlify.app/)] [[GitHub](https://github.com/JohnLi-98/Workout-Logger)]
 
 ---
 
